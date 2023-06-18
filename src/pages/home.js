@@ -232,6 +232,66 @@ class Home extends React.Component {
                       </div>
                     </div>
                 </div>
+                <div class="card1">
+                    <div class="imgBox">
+                        <a href=""><img src="https://cdn.shopify.com/s/files/1/0252/0904/5067/products/PrakharSangdhigata.png?v=1659946501" alt="nike101" border="0"/></a>
+                    </div>
+                    <div class="contentBx">
+                        <h3 class="productName">Item1</h3>
+                        <h2 class="price">₹<span class="productPrice">250</span></h2>
+                        <a href="#" class="buy">Buy Now</a>
+                        <a href="#" class="remove">Remove</a>
+                    </div>
+                  <div class="inside">
+                      <div class="icon"><i class="material-icons">info_outline</i></div>
+                      <div class="contents">
+                        <h2>Description:</h2>
+                        <p>Zandu Joint Pain Reliever for Chronic Pain (Prakhar Sandhigata Pida har Vati) is effective in overcoming extreme joint pains. This Ayurvedic supplement also helps in reducing inflammation and keeps your bones and joints healthy.</p><br></br>
+                        <h2>How to Use</h2>
+                        <p>Take 1 tablet twice a day, or as directed as physician.</p>
+                      </div>
+                    </div>
+                </div>
+                <div class="card1">
+                    <div class="imgBox">
+                        <a href=""><img src="https://cdn.shopify.com/s/files/1/0252/0904/5067/products/PrakharSangdhigata.png?v=1659946501" alt="nike101" border="0"/></a>
+                    </div>
+                    <div class="contentBx">
+                        <h3 class="productName">Item1</h3>
+                        <h2 class="price">₹<span class="productPrice">250</span></h2>
+                        <a href="#" class="buy">Buy Now</a>
+                        <a href="#" class="remove">Remove</a>
+                    </div>
+                  <div class="inside">
+                      <div class="icon"><i class="material-icons">info_outline</i></div>
+                      <div class="contents">
+                        <h2>Description:</h2>
+                        <p>Zandu Joint Pain Reliever for Chronic Pain (Prakhar Sandhigata Pida har Vati) is effective in overcoming extreme joint pains. This Ayurvedic supplement also helps in reducing inflammation and keeps your bones and joints healthy.</p><br></br>
+                        <h2>How to Use</h2>
+                        <p>Take 1 tablet twice a day, or as directed as physician.</p>
+                      </div>
+                    </div>
+                </div>
+                <div class="card1">
+                    <div class="imgBox">
+                        <a href=""><img src="https://cdn.shopify.com/s/files/1/0252/0904/5067/products/PrakharSangdhigata.png?v=1659946501" alt="nike101" border="0"/></a>
+                    </div>
+                    <div class="contentBx">
+                        <h3 class="productName">Item1</h3>
+                        <h2 class="price">₹<span class="productPrice">250</span></h2>
+                        <a href="#" class="buy">Buy Now</a>
+                        <a href="#" class="remove">Remove</a>
+                    </div>
+                  <div class="inside">
+                      <div class="icon"><i class="material-icons">info_outline</i></div>
+                      <div class="contents">
+                        <h2>Description:</h2>
+                        <p>Zandu Joint Pain Reliever for Chronic Pain (Prakhar Sandhigata Pida har Vati) is effective in overcoming extreme joint pains. This Ayurvedic supplement also helps in reducing inflammation and keeps your bones and joints healthy.</p><br></br>
+                        <h2>How to Use</h2>
+                        <p>Take 1 tablet twice a day, or as directed as physician.</p>
+                      </div>
+                    </div>
+                </div>
             </div>
             
         </div>

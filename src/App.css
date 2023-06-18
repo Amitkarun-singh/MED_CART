@@ -198,10 +198,12 @@ ul li span{
     background: #122936!important;
     border-radius: 20px!important;
     overflow: hidden; */
-    display: grid;
+    display: inline-block;
+    margin-left: 3%;
+    margin-top: 7%;
   position: relative;
   width: 320px;
-  height: 420px;
+  height: 500px;
   background: #122936!important;
   border-radius: 20px!important;
   overflow: hidden;
